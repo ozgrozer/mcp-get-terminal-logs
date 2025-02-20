@@ -1,0 +1,17 @@
+{
+  "name": "get-terminal-logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.4.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "standardx": "^7.0.0"
+  }
+}
